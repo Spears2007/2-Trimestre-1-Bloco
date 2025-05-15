@@ -2,8 +2,8 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #10d1dfda;
-    --fundo-senha: #ca3b17c7;
+    --cor-de-fundo: #6d87a8da;
+    --fundo-senha: #0055f3e1;
     --fundo-texto: #002a30;
     --borda: #0075FF;
     --roboto: 'Roboto', sans-serif;
@@ -11,7 +11,7 @@
 }
 
 * {
-    font-weight: 400;
+    font-weight: 600;
 }
 
 body {
